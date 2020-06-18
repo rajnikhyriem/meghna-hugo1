@@ -5,7 +5,6 @@ image_webp: "/images/adobe_post_20200618_1341300-8644540934043697.png"
 image: "/images/adobe_post_20200618_1341300-8644540934043697.png"
 author: Rajni Khyriem
 description: ''
-draft: true
 
 ---
       The network layer is responsible for the delivery of individual packets from the source to the destination host. The major goals of a network layer are – (i) routing, (ii) congestion control and (iii) addressing. The three goals can be achieved by (i) knowing about the topology of the subnet, (ii) ensuring there is no overload on some communication lines and routers while leaving others idle, (iii) resolving in case of source and destination are in different networks.
