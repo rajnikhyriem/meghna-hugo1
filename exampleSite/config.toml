@@ -30,8 +30,8 @@ URL = "skills"
 name = "skills"
 weight = 3
 [[menu.main]]
-URL = "team"
-name = "team"
+URL = "about"
+name = "about"
 weight = 4
 [[menu.main]]
 URL = "pricing"
