@@ -12,6 +12,9 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[[menu.main]]
+name = "RK's classroom"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

@@ -5,10 +5,6 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: John Doe
 description: This is meta description
-menu:
-  main:
-    name: RK's classroom
-    weight: 1
 draft: true
 
 ---

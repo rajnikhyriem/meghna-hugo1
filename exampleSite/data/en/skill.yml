@@ -19,3 +19,7 @@ skill:
     percent: 80%
   - name: Good Communicator and Strong Presentation Skills
     percent: 98%
+menu:
+  main:
+    name: skills
+    weight: 2
