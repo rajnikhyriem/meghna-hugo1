@@ -7,9 +7,8 @@ author: John Doe
 description: This is meta description
 menu:
   main:
-    URL: blog
-    name: blog
-    weight: 3
+    name: RK's classroom
+    weight: 1
 draft: true
 
 ---

@@ -19,24 +19,6 @@ home = ""
 languageCode = ""
 languageName = ""
 weight = ""
-[menu]
-static = []
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
-[[menu.main]]
-URL = "skills"
-name = "skills"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
