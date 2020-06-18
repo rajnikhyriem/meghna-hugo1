@@ -1,7 +1,7 @@
 baseURL = "https://www.rajnikhyriem.com"
 disableLanguages = ["french"]
 disqusShortname = ""
-paginate = "6"
+paginate = "4"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Rajni Khyriem | A Teacher and A Life Long Learner"
