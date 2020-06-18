@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Rajni Khyriem | A Teacher and A Life Long Learner"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; 2020 rajnikhyriem all right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
