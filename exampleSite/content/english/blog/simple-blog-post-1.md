@@ -1,10 +1,10 @@
 ---
-title: 'The Network Layer : Logical Addressing(Part 1)'
+title: The Network Layer
 date: 2020-06-18T22:00:00+05:30
 image_webp: "/images/adobe_post_20200618_1341300-8644540934043697.png"
 image: "/images/adobe_post_20200618_1341300-8644540934043697.png"
 author: Rajni Khyriem
-description: ''
+description: Logical Addressing(Part 1)
 menu:
   main:
     name: RK's classroom
