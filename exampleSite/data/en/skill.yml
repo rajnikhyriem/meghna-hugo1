@@ -1,26 +1,21 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
-      percent : 75%
+  enable: true
+  title: Skills
+  subtitle: Skilled in computer programming and deep learning in machine language.
+  content: Experienced Assistant Professor with a demonstrated history of working
+    in the computer and network security industry. Skilled in Python (Programming
+    Language), C++, Natural Language Processing (NLP), Deep Learning, Curriculum Development,
+    and Object-oriented Languages.
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Python Programming
+    percent: 90%
+  - name: Deep Learning
+    percent: 70%
+  - name: Curriculum Development
+    percent: 95%
+  - name: Networking
+    percent: 80%
+  - name: Good Communicator and Strong Presentation Skills
+    percent: 98%
