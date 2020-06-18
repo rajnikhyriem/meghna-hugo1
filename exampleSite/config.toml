@@ -12,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = ""
-home = ""
-languageCode = ""
-languageName = ""
-weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -57,7 +50,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = ""
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
