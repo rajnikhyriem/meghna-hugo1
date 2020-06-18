@@ -22,5 +22,4 @@ menu:
   main:
     URL: services
     name: skills
-    weight: 2
-draft: true
+    weight: "2"

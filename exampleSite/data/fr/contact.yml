@@ -27,5 +27,4 @@ menu:
   main:
     URL: contact
     name: contact
-    weight: 4
-draft: true
+    weight: "4"

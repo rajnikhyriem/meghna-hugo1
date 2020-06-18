@@ -19,5 +19,4 @@ menu:
   main:
     URL: about
     name: about
-    weight: 3
-draft: true
+    weight: "3"
