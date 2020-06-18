@@ -18,4 +18,9 @@ skill:
     percent: 95%
   - name: Android Development
     percent: 75%
+menu:
+  main:
+    URL: services
+    name: skills
+    weight: 2
 draft: true

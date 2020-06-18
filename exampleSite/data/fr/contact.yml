@@ -23,3 +23,9 @@ contact:
     subject: Matière
     message: Message
     submit: Soumettre
+menu:
+  main:
+    URL: contact
+    name: contact
+    weight: 4
+draft: true
