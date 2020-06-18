@@ -28,7 +28,8 @@ menu:
        Network Addresses are always logical. They are software
        based addresses which can be changed by appropriate 
        configurations. A network address always points to 
-       host / node / server or it can represent a whole network.
+       host / node / server or it can represent a whole 
+       network.
        Logical addresses are necessary for universal 
        communications that are independent of underlying 
        physical networks.
