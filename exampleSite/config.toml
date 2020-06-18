@@ -22,17 +22,17 @@ weight = ""
 [menu]
 static = []
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "classroom"
+name = "Rk's classroom"
+weight = 4
 [[menu.main]]
 URL = "skills"
 name = "skills"
 weight = 3
 [[menu.main]]
-URL = "classroom"
-name = "Rk's classroom"
-weight = 4
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "contact"
