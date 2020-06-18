@@ -1,5 +1,5 @@
 baseURL = "https://www.rajnikhyriem.com"
-disableLanguages = []
+disableLanguages = ["french"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -19,6 +19,32 @@ home = ""
 languageCode = ""
 languageName = ""
 weight = ""
+[menu]
+static = []
+[[menu.main]]
+URL = "about"
+name = "about"
+weight = 1
+[[menu.main]]
+URL = "skills"
+name = "skills"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
